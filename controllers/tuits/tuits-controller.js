@@ -9,7 +9,7 @@ const templateTuit = {
     "time": "Now",
     "liked": false,
     "disliked": false,
-    "replies": 0,
+    "comments": 0,
     "retuits": 0,
     "likes": 0,
     "dislikes": 0
